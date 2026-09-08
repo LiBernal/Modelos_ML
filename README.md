@@ -1,0 +1,2 @@
+- myknn - pequeño programa inicial como introducción al k-nearest neighbours
+- myknn_kfolds - 
