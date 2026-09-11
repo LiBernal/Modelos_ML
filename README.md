@@ -1,4 +1,5 @@
-- myknn - pequeño programa inicial como introducción al k-nearest neighbours, usando knc(n_neighbors=5)
-- myknn_kfolds - RepeatedStratifiedKFold(n_splits=5, n_repeats=20), usando knc(n_neighbors=5)
-- compara_myknn_kfolds - RepeatedStratifiedKFold(n_splits=5, n_repeats=20) con diferentes k (pruebas = [2,5,10,20])
-- compara_myknn_kfolds2 - RepeatedStratifiedKFold(n_splits=5, n_repeats=20) nos dimos cuenta que estaba entre 5 y 10 el mejor índice (pruebas = [5,6,7,8,9,10]), normalizado con scaler = MinMaxScaler()
+- myknn.py - pequeño programa inicial como introducción al k-nearest neighbours, usando knc(n_neighbors=5)
+- myknn_kfolds.py - RepeatedStratifiedKFold(n_splits=5, n_repeats=20), usando knc(n_neighbors=5)
+- compara_myknn_kfolds.py - RepeatedStratifiedKFold(n_splits=5, n_repeats=20) con diferentes k (pruebas = [2,5,10,20])
+- compara_myknn_kfolds2.py - RepeatedStratifiedKFold(n_splits=5, n_repeats=20) nos dimos cuenta que estaba entre 5 y 10 el mejor índice (pruebas = [5,6,7,8,9,10]), normalizado con scaler = MinMaxScaler()
+- compararAlgoritmos_irises_kfolds.ipynb - Comparación de diferentes modelos de *clasificación*
