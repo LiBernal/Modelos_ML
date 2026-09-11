@@ -2,4 +2,4 @@
 - myknn_kfolds.py - RepeatedStratifiedKFold(n_splits=5, n_repeats=20), usando knc(n_neighbors=5)
 - compara_myknn_kfolds.py - RepeatedStratifiedKFold(n_splits=5, n_repeats=20) con diferentes k (pruebas = [2,5,10,20])
 - compara_myknn_kfolds2.py - RepeatedStratifiedKFold(n_splits=5, n_repeats=20) nos dimos cuenta que estaba entre 5 y 10 el mejor índice (pruebas = [5,6,7,8,9,10]), normalizado con scaler = MinMaxScaler()
-- compararAlgoritmos_irises_kfolds.ipynb - Comparación de diferentes modelos de *clasificación*
+- compararAlgoritmos_irises_kfolds.ipynb - Comparación de diferentes modelos de *clasificación* para resolver el problema de irises
