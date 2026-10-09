@@ -5,3 +5,4 @@
 - compararAlgoritmos_irises_kfolds.ipynb - Comparación de diferentes modelos de *clasificación* para resolver el problema de irises
 - pinguinos 3sex - Pipeline del dataset de clasificación de pingüinos y comparación de diferentes modelos
 - WineQuality - red_wine_analsis.py (ploteo de variables), wq-mlp.py (perceptron), wq-rfc.py (random forest), wq-xgb.py (xgboost), compara_vino_cvs.py (compara mlp, rf y xgboost con cross validation score), kfolds_compara_vino.py (compara mlp, rf y xgboost con k-folds) 
+- Sonar - kfolds.py (ejemplo de kfolds con mlp)
