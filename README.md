@@ -4,3 +4,4 @@
 - compara_myknn_kfolds2.py - RepeatedStratifiedKFold(n_splits=5, n_repeats=20) nos dimos cuenta de que estaba entre 5 y 10 el mejor índice (pruebas = [5,6,7,8,9,10]), normalizado con scaler = MinMaxScaler()
 - compararAlgoritmos_irises_kfolds.ipynb - Comparación de diferentes modelos de *clasificación* para resolver el problema de irises
 - pinguinos 3sex - Pipeline del dataset de clasificación de pingüinos y comparación de diferentes modelos
+- WineQuality - red_wine_analsis.py (ploteo de variables), wq-mlp.py (perceptron), wq-rfc.py (random forest), wq-xgb.py (xgboost), compara_vino_cvs.py (compara mlp, rf y xgboost con cross validation score), kfolds_compara_vino.py () 
