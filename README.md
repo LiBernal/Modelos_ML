@@ -7,3 +7,4 @@
 - WineQuality - red_wine_analsis.py (ploteo de variables), wq-mlp.py (perceptron), wq-rfc.py (random forest), wq-xgb.py (xgboost), compara_vino_cvs.py (compara mlp, rf y xgboost con cross validation score), kfolds_compara_vino.py (compara mlp, rf y xgboost con k-folds) 
 - Sonar - kfolds.py (ejemplo de kfolds con mlp)
 - Motor_keras.ipynb & Regresion_kfolds.ipynb - Fueron ejemplos de introducción a la Regresión
+- produccion_mlp - Salvar y recuperar modelos con Keras (para producción) (mlp)
