@@ -8,3 +8,4 @@
 - Sonar - kfolds.py (ejemplo de kfolds con mlp)
 - Motor_keras.ipynb & Regresion_kfolds.ipynb - Fueron ejemplos de introducción a la Regresión
 - produccion_mlp - Salvar y recuperar modelos con Keras (para producción) (mlp)
+- produccion_xgb - Salvar y recuperar modelo + encoder (para producción) (xgboost)
